@@ -7,7 +7,7 @@ public class convertTemperature {
         double celsius;
 
         System.out.print("Enter Fahrenheit degree to here: ");
-        userInput = input.nextInt();
+        userInput = input.nextDouble();
         celsius = (((userInput - 32) * 5) / 9);
         System.out.println("The weather is " + celsius + " celcius.");
     }
