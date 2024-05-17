@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class digitSplitter {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int userValue;
