@@ -7,5 +7,5 @@ Note: you have to write
 
 Example:
 
-Enter Fahrenheit degree to here: 41
+Enter Fahrenheit degree to here: 41 
 The weather is 5.0 celcius.
