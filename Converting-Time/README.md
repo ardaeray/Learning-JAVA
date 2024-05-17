@@ -2,5 +2,5 @@ Read an integer value from Keyboard which contains the number of seconds, and co
 
 Example: 
 
-Enter the seconds: 25851
+Enter the seconds: 25851 
 7 hours 10 minutes and 51 seconds
