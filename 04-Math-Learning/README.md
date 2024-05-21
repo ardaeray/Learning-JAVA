@@ -5,7 +5,9 @@ After the student types the answer, the program displays a message to indicate w
 Example:
 
 What is 3 + 2 = ? 5
+
 True
 
 What is 3 + 5 = ? 88
+
 False
