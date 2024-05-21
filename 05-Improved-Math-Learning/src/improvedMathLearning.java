@@ -29,6 +29,6 @@ public class improvedMathLearning {
             System.out.println("False");
         }
         
-
+        input.close();
     }
 }
