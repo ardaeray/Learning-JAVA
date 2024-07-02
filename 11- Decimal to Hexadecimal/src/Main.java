@@ -9,7 +9,7 @@ public class Main {
         int inputDecimal = input.nextInt();
 
         while(inputDecimal != 0) {
-            hexDigit = inputDecimal % 16;
+            int hexDigit = inputDecimal % 16;
             inputDecimal = inputDecimal / 16;
 
             if (hexDigit < 10 && hexDigit >= 0) {
@@ -30,5 +30,7 @@ public class Main {
                     result = "F" + result;
             }
         }
+
+        System.out.println("Hexadecimal: " + result);
     }
 }
